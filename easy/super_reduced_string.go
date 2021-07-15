@@ -32,7 +32,6 @@ func main() {
 	if str == "" {
 		fmt.Println("Empty String")
 	} else {
-
 		fmt.Println(str)
 	}
 
